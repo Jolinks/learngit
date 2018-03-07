@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 write master
 add test
 one
+two
