@@ -6,3 +6,4 @@ write master
 add test
 one
 two
+three
